@@ -54,3 +54,14 @@ The contents of these files are:
     - generation number.
     - population diversity averaged over all runs.
 - mutProb: this file has one plus h columns. The first one is the generation number, and each other one is entry for the list of mutation probabilities used in the EB algorithms, averaged over all runs.
+
+**Algorithm References**
+
+Ali W. Mohamed and Anas A. Hadi and Kamal M. Jambi. "Novel mutation strategy for enhancing SHADE and LSHADE algorithms for global numerical optimization," Swarm and Evolutionary Computation, 2018. ISSN 2210-6502,
+https://doi.org/10.1016/j.swevo.2018.10.006 (http://www.sciencedirect.com/science/article/pii/S2210650218301597)
+
+R. Tanabe and A. Fukunaga, "Success-history based parameter adaptation for Differential Evolution," 2013 IEEE Congress on Evolutionary Computation, Cancun, 2013, pp. 71-78. doi: 10.1109/CEC.2013.6557555. URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6557555&isnumber=6557545
+
+R. Tanabe and A. S. Fukunaga, "Improving the search performance of SHADE using linear population size reduction," 2014 IEEE Congress on Evolutionary Computation (CEC), Beijing, 2014, pp. 1658-1665. doi: 10.1109/CEC.2014.6900380. URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6900380&isnumber=6900223
+
+Storn, R. and Price, K. "Differential Evolution – A Simple and Efficient Heuristic for global Optimization over Continuous Spaces," Journal of Global Optimization (1997) 11: 341. https://doi.org/10.1023/A:1008202821328
