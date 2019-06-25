@@ -1,0 +1,7 @@
+DE, function number 15, 100 dimensions
+average of 1 runs
+
+Best fitness for each run:
+    3.047760077575374e+04
+Best fitness overall:     3.047760077575374e+04
+Total time:    9.392 s

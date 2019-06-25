@@ -1,0 +1,7 @@
+SHADE, function number 6, 100 dimensions
+average of 1 runs
+
+Best fitness for each run:
+    1.107290792993717e+01
+Best fitness overall:     1.107290792993717e+01
+Total time:   22.698 s

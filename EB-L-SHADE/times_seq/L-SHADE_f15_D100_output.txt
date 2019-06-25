@@ -1,0 +1,7 @@
+L-SHADE, function number 15, 100 dimensions
+average of 1 runs
+
+Best fitness for each run:
+    1.505114251221665e+04
+Best fitness overall:     1.505114251221665e+04
+Total time:   37.100 s
